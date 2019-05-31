@@ -3,6 +3,8 @@ python SpamBot.py [victims Name] [victims Surname]
 
 Give a spam message.
 
-Use old credentials to login or new ones
+Create creds folder with creds.txt file before run
+
+It can use old credentials to login or new ones
 
 ++To add a library or ml to spam variety of words
